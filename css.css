@@ -24,8 +24,9 @@ a{
   color: #427AA1;
   border: solid;
 }
-img{
+.header{
   width: 40%;
+  height: 60%;
 }
 p{
   color: #427AA1;
