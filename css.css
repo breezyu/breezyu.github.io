@@ -1,0 +1,33 @@
+*{
+  text-align: center;
+  font-family: Roboto Condensed;
+}
+h1{
+  font-size: 250%;
+  color:#427AA1
+}
+h3{
+  color: #427AA1;
+  font-size: 150%;
+}
+a:hover{
+  font-size: 150%;
+
+}
+a{
+  text-align: center;
+  color: #427AA1;
+  border: solid;
+}
+a{
+  table-layout: inherit;
+  color: #427AA1;
+  border: solid;
+}
+img{
+  width: 30%;
+}
+p{
+  color: #427AA1;
+  font-size: 25;
+}
