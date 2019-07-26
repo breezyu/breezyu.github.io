@@ -31,3 +31,7 @@ p{
   color: #427AA1;
   font-size: 25;
 }
+
+.mapouter {
+  margin: auto;
+}
